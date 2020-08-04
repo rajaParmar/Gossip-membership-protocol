@@ -19,3 +19,5 @@ The distributed network setting was already provided as part of the starter code
 The protocol was tested with various instances of test cases provided by the instructor and it succesfully passed all the test cases complying with the properties mentioned above.
 
 The protocol was written entirely using C++.
+
+The protocol implementation resides in the files MP1Node.cpp and respective signatures in MP1Node.h, feel free to read and run the protocol on the testcases provided.
